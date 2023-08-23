@@ -1,8 +1,8 @@
 <a href="https://github.com/dinno7"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7BA&width=435&lines=Hi+there%F0%9F%91%8B%2C+i'm+Dinno." alt="Dinno" /></a>
 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I love learning forever
+-  I’m interested in programming
+-  I’m currently learning web development
+-  I love learning forever
 
 <div align="center">
   <a href="https://github.com/dinno7">
