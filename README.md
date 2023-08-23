@@ -4,6 +4,7 @@
 -  I’m currently learning web development
 -  I love learning forever
 
+## Some of my skills:
 <div align="center">
   <a href="https://github.com/dinno7">
     <img src="https://skillicons.dev/icons?i=vscode,nodejs,mongodb,vue,nuxtjs,docker,react,tailwind,linux,js,ts,vite&perline=6" alt="Dinno" />
