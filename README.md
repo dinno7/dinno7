@@ -7,7 +7,7 @@
 ## Some of my skills:
 <div align="center">
   <a href="https://github.com/dinno7">
-    <img src="https://skillicons.dev/icons?i=vscode,nodejs,mongodb,vue,nuxtjs,docker,react,tailwind,linux,js,ts,vite&perline=6" alt="Dinno" />
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,mongodb,vue,nuxtjs,react,nextjs,docker,tailwind,linux,js,ts,vite&perline=6" alt="Dinno" />
   </a>
 </div>
 
