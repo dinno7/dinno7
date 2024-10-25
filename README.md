@@ -7,7 +7,7 @@
 ## Tech stack:
 <div align="center">
   <a href="https://github.com/dinno7">
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,nodejs,nestjs,js,ts,vite,docker,mongodb,postgresql,vue,nuxtjs,tailwind,linux,arch,ubuntu&perline=8" alt="Dinno" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,neovim,vscode,nodejs,nestjs,js,ts,vue,nuxtjs,go,tailwind,docker,mongodb,postgresql&perline=8" alt="Dinno" />
   </a>
 </div>
 
