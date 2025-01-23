@@ -2,7 +2,7 @@
 ## Socials:
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tahadlrb)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/tahadlrb7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taha.dlrb) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahadlrb) 
 
 ## Tech stack:
 <div align="center">
